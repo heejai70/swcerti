@@ -1,3 +1,2 @@
-# swcerti
-* SW Certification for Java
+# SW Certification for Java
 ## Algorithm
